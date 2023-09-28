@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+:root {
+  --blue-zodiac-50: #f0f5fe;
+  --blue-zodiac-100: #d8e3fd;
+  --blue-zodiac-200: #bbcafb;
+  --blue-zodiac-300: #90a8f9;
+  --blue-zodiac-400: #5a72f6;
+  --blue-zodiac-500: #3437f4;
+  --blue-zodiac-600: #311bf3;
+  --blue-zodiac-700: #3c0ce9;
+  --blue-zodiac-800: #400dbf;
+  --blue-zodiac-900: #3b1197;
+  --blue-zodiac-950: #2c0e58;
+}
+
+html {
+  font-size: 90%;
+}
+
+body {
+  height: 100vh;
+}
